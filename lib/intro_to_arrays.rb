@@ -6,4 +6,6 @@ def array_with_two_elements
   [1,2]
 end
 
-array_with_two_elements.first
+
+def first_element(array)
+array= ["taylor_swift", "Welcome to New York"]
