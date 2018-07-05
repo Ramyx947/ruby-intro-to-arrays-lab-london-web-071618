@@ -9,5 +9,5 @@ end
 
 def first_element(my_first_element)
 my_first_element= ["taylor_swift", "Welcome to New York"]
-my_first_element.first_element
+my_first_element.first
 end 
