@@ -19,6 +19,6 @@ end
 
 def last_element(my_last_element)
   my_last_element= ["Welcome to New York", "taylor_swift", "Style", "Out of The Woods"]
-  my_last_element[-3]
+  my_last_element[-0]
 end
   
