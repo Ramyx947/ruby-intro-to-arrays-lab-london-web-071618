@@ -13,4 +13,6 @@ my_first_element.first
 end 
 
 def third_element(my_third_element)
-  my_third_element=["Welcome to New York", "taylor_swift", ]
+  my_third_element=["Welcome to New York", "taylor_swift", "Style"]
+  my_third_element.last
+end
