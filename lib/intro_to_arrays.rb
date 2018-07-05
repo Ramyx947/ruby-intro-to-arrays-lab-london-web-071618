@@ -18,5 +18,5 @@ def third_element(my_third_element)
 end
 
 def last_element(my_last_element)
-  my_last_element
+  my_last_element= ["Welcome to New York", "taylor_swift", "Style", "Out of The Woods"]
   
