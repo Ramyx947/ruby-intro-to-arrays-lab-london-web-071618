@@ -21,4 +21,8 @@ def last_element(my_last_element)
   my_last_element= ["Welcome to New York", "taylor_swift", "Style", "Out of The Woods"]
   my_last_element[-1]
 end
+
+def first_element_with_array_method(first_country)
+  
+  
   
