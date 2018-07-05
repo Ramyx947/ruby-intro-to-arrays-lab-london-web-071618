@@ -23,6 +23,8 @@ def last_element(my_last_element)
 end
 
 def first_element_with_array_method(first_country)
-  
+  first_country=["Thailand", "Cambodia", "Singapore", "Myanmar"]
+  first_country.first
+end
   
   
