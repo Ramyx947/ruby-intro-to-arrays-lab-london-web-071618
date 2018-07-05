@@ -7,5 +7,7 @@ def array_with_two_elements
 end
 
 
-def first_element(array)
-array= ["taylor_swift", "Welcome to New York"]
+def first_element(my_first_element)
+my_first_element= ["taylor_swift", "Welcome to New York"]
+my_first_element.first_element
+end 
